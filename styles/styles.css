@@ -1,0 +1,95 @@
+body {
+  background: #f5f5f5;
+}
+
+header {
+  background: #4f0075;
+}
+
+.logo {
+  font-family: 'Lobster', cursive;
+  font-size: 35px;
+  color: #b0ff8a;
+}
+
+.logo:hover {
+  color: #b0ff8a;
+}
+
+.nav-link {
+  font-family: 'Teko', sans-serif;
+  color: #b0ff8a;
+}
+
+#profile-pic {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  display: block;
+}
+
+.container {
+  padding-top: 50px; 
+  font-family: 'Teko', sans-serif;
+}
+
+#about-me {
+  font-size: 50px;
+}
+
+#arabic {
+  font-size: 25px;
+  font-family: 'Changa', sans-serif;
+}
+
+#hindi {
+  font-size: 25px;
+}
+
+#english {
+  font-size: 25px;
+}
+
+
+footer {
+  background: #4f0075;
+  color: white;
+}
+
+#somaiya-logo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: red solid;
+  display: block;
+}
+
+#siesascs-logo {
+  width: 100px;
+  height: 100px;
+  border: yellow solid;
+  border-radius: 50%;
+  display: block;
+}
+
+#sieshsm-logo {
+  width: 100px;
+  height: 100px;
+  border: green solid;
+  border-radius: 50%;
+  display: block;
+}
+
+.name { 
+  font-size: 40px; 
+  font-family: 'Teko', sans-serif;
+}
+
+li {
+  font-size: 25px;
+}
+
+.details {
+  font-size: 25px;
+  opacity: 0.75;
+}
